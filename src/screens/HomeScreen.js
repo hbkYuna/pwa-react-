@@ -29,19 +29,7 @@ const articles = [
     {
       title: 'Secure Coding Practices',
       subtext: 'Explore the best practices for writing secure code and protecting applications from common vulnerabilities.',
-    },
-    {
-      title: 'Getting Started with Rust Programming',
-      subtext: 'Learn the basics of Rust programming language and its unique features for safe and concurrent programming.',
-    },
-    {
-      title: 'Functional Programming Paradigm',
-      subtext: 'Discover the principles of functional programming and how it can improve code clarity and maintainability.',
-    },
-    {
-      title: 'Automating Infrastructure with Ansible',
-      subtext: 'Learn how to use Ansible to automate the provisioning and configuration of infrastructure resources.',
-    },
+    }
   ];
 const HomeScreen = () => {
   return (
@@ -59,7 +47,7 @@ const HomeScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f2f2f2',
+    backgroundColor: '#333333',
     paddingHorizontal: 16,
     paddingVertical: 8,
   },

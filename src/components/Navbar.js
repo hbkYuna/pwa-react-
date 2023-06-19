@@ -12,12 +12,14 @@ const Navbar = () => {
 };
 
 const styles = StyleSheet.create({
-  navbar: {
-    flexDirection: 'row',
-    backgroundColor: '#f2f2f2',
-    paddingHorizontal: 16,
-    paddingVertical: 8,
-  },
+    navbar: {
+        flexDirection: 'row',
+        backgroundColor: '#708090',
+        paddingHorizontal: 16,
+        paddingVertical: 8,
+        marginTop: 50,
+      },
+      
   navbarElement: {
     color: '#ffffff',
     marginRight: 16,

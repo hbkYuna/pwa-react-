@@ -1,0 +1,21 @@
+{
+    "name": "Computer Science Research Simplified ",
+    "short_name": "CSRS",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#f2f2f2",
+    "theme_color": "#333333",
+    "icons": [
+      {
+        "src": "path/to/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "path/to/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
